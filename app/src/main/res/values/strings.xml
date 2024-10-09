@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DAM_ANDRESANCHEZ-PC2</string>
+    <string name="idapenom">Apellidos y Nombres</string>
+    <string name="idcorreo">Correo Electronico</string>
+    <string name="idclae">Clave</string>
+    <string name="idfechan">Fecha Nacimiento</string>
+    <string name="idcarrera">Carrera</string>
+    <string name="rbsis">Ingenieria de Sistemas</string>
+    <string name="rbamb">Ingenieria Ambiental</string>
+    <string name="rbmec">Ingenieria Mecania</string>
+    <string name="rbadm">Administracion</string>
+    <string name="rbmecani">Ingenieria Mecanica</string>
+    <string name="idmedio">¿Por qué medio se enteró de la convocatoria?\n</string>
+</resources>
